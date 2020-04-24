@@ -12,16 +12,6 @@
 	<version>1.0.4-SNAPSHOT</version>
 	<description>Lets you add tooltips to elements without JavaScript and in just a few lines of CSS.</description>
 	
-	<properties>
-		<systemjs>
-			{
-				"paths": {
-					"balloon-css": "balloon.css"
-				}
-			}			
-		</systemjs>
-	</properties>
-	
 	<build>
 		<plugins>
 			<plugin>
@@ -30,9 +20,6 @@
 				<executions>
 					<execution>
 						<id>npm-install</id>
-						<configuration>
-							<skip>false</skip>
-						</configuration>
 					</execution>
 				</executions>
 			</plugin>

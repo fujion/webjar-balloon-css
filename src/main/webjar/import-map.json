@@ -1,5 +1,5 @@
 {
-  "imports": {
+  "paths": {
     "balloon-css": "balloon.css"
   }
 }

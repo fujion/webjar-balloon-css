@@ -9,7 +9,7 @@
 
 	<name>Balloon.css</name>
 	<artifactId>webjar-balloon-css</artifactId>
-	<version>1.2.0-1</version>
+	<version>1.2.0-10</version>
 	<description>Lets you add tooltips to elements without JavaScript and in just a few lines of CSS.</description>
 	
 	<build>

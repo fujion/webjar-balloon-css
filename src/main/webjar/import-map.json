@@ -1,5 +1,5 @@
 {
   "imports": {
-    "balloon-css": "balloon.css"
+    "balloon-css": "dist/balloon.css"
   }
 }

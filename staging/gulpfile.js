@@ -1,6 +1,6 @@
 const {src, dest, series} = require('gulp');
 
-const srcDir = '${src.rootdir}/node_modules/balloon-css/';
+const srcDir = '${webjar.staging}/node_modules/balloon-css/';
 const destDir = '${webjar.target}/';
 
 function task1() {
